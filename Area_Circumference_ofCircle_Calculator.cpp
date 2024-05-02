@@ -1,7 +1,4 @@
-//
-//  lab16a.cpp
-//  Lab 16 Part a
-//
+
 //  Created by Cody Buller.
 //
 // THIS PROGRAM TAKES THE RADIUS FROM USER AND CALCULATES AREA & CIRCUMFERENCE
